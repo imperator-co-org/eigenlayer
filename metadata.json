@@ -2,6 +2,6 @@
   "name": "Imperator.co",
   "website": "https://imperator.co/",
   "description": "Imperator.co is a leader in blockchain infrastructure, securing over 44 chains, with more than $500M in AUM and over 200,000 customers trusted by leading protocols, foundations, and institutions. Our dedication to reliability, security, and ecosystem growth, along with strategic partnerships and a strong community focus, positions us as the premier choice for your blockchain operations. With a 99.99% uptime SLA, we're setting high standards in blockchain excellence.",
-  "logo": "https://api.imperator.co/projects/logos/imperator.png",
+  "logo": "https://raw.githubusercontent.com/imperator-co-org/eigenlayer/main/imperator.png",
   "twitter": "https://twitter.com/imperator_co"
 }
